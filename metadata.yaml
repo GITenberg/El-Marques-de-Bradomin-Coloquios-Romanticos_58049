@@ -1,0 +1,32 @@
+_repo: El-Marques-de-Bradomin-Coloquios-Romanticos_58049
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Valle-Inclán, Ramón del
+    aliases:
+    - Del Valle-Inclán, Ramón
+    - Valle-Inclan, Ramon del
+    - Montenegro, Ramón María del Valle Inclán y
+    - Inclán, Ramón del Valle
+    - Montenegro, Ramon Maria del Valle Inclan y
+    - Del, Valle-Inclán Ramón
+    birthdate: 1866
+    deathdate: 1936
+    gutenberg_agent_id: '3562'
+    url: http://www.gutenberg.org/2009/agents/3562
+    wikipedia: http://en.wikipedia.org/wiki/Ram%C3%B3n_del_Valle-Incl%C3%A1n
+description: ''
+gutenberg_issued: '2018-10-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '58049'
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Spanish drama'
+- !lcc 'PQ'
+- GITenberg
+title: 'El Marqués de Bradomín: Coloquios Románticos'
+url: http://www.gutenberg.org/ebooks/58049
